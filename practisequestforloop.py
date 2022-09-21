@@ -9,4 +9,4 @@ p = []
 for number in range (1500,2700+1):
     if number % 5 == 0 and number % 7 == 0:
         p.append(number)
-print(p)
+print(p) # this prints the new list p which was empty now will have values...
